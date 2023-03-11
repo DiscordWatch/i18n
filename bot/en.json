@@ -42,6 +42,12 @@
   "card.bot.guilds.title":"**Guilds**",
   "card.bot.guilds.text":"{{0}}",
 
+  "staff.cmd.reload.config.success":"The config got reloaded successfully.",
+  "staff.cmd.restart.success":"The bot will now restart (assuming that the autorun script is configured).",
+  "staff.cmd.fetch.lang.progress":"Fetching the lang files...",
+  "staff.cmd.fetch.lang.success":"The lang files got fetch successfully.\r\n\r\nLang Files:\r\n{{0}}",
+  "staff.cmd.reload.lang.success":"The lang files got reloaded successfully.",
+
   "error.feature.not_implemented":"This feature is not yet implemented, join [our support server](https://discord.gg/dwatch) to get notified when this feature will be implemented",
   "error.generic":"An error occured, sorry about this.",
   "error.bot.not_in_db":"{{0}} This bot was deleted, disabled or the ID is invalid.",
@@ -49,5 +55,6 @@
   "error.cmd.bot_claim.already_claimed":"You can't claim a bot that is already claimed.",
   "error.cmd.bot_claim.already_claimed_sameuser":"You already claimed this bot.",
   "error.cmd.bot_claim.failed":"We didn't find the verifcation key in your bot's description. Verify that you copy pasted the verifcation key correctly and then retry.\r\nIf you have troubles, you can join [our support server](https://discord.gg/dwatch) for help.",
-  "error.cmd.bot_claim.timeout":"Sorry, the command got cancelled because you took more than {{0}} minutes"
+  "error.cmd.bot_claim.timeout":"Sorry, the command got cancelled because you took more than {{0}} minutes",
+  "error.staff.not_allowed":"Only allowed staff members can do this action."
 }
