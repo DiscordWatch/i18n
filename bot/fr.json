@@ -6,7 +6,7 @@
   "sorting.order.bot_guild_count": "Nombre de serveurs",
   "sorting.order.id": "IDENTIFIANT",
   "sorting.order.oldest": "Du plus ancien au plus récent",
-  "cmd.bot_explore.sorted_text": "**Trié en utilisant {{0}}**",
+  "cmd.bot_explore.sorted_text": "Trié en utilisant **{{0}}**",
   "cmd.bot_bump.bump_success": "{{0}} Merci pour le bump ! ",
   "cmd.bot_claim.stage1.text": "Vous êtes sur le point de réclamer {{0}}, vous devez avoir accès au [portail développeur de l'application](https://discord.com/developers/applications/{{1}}/information).\r\n",
   "cmd.bot_claim.stage2.text": "Une fois dans le portail des développeurs, vous devez copier coller la clé de vérification '**{{0}}**' dans la description de l'application et enregistrez.\r\n",
