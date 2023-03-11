@@ -1,0 +1,53 @@
+{
+  "langcode": "en",
+
+
+  "console.logs.langs_loaded": "Langs Loaded!",
+
+  "sorting.order.last_bump":"Bumped Last",
+  "sorting.order.trends":"Trending",
+  "sorting.order.bot_guild_count":"Guild Count",
+  "sorting.order.id":"ID",
+  "sorting.order.oldest":"Oldest First",
+
+  "cmd.bot_explore.sorted_text":"Sorted using **{{0}}**",
+  "cmd.bot_bump.bump_success":"{{0}} Thanks for the bump ! :thumbsup_tone1:",
+
+  "cmd.bot_claim.stage1.text":"You are about to claim {{0}}, you need access to the [developer portal of the application](https://discord.com/developers/applications/{{1}}/information).\r\n**Once there click on __Next →__**",
+  "cmd.bot_claim.stage2.text":"Once in the developer portal, you need to copy paste the verification key '**{{0}}**' to the description of the application and save.\r\n**Once done click on __Next →__**",
+  "cmd.bot_claim.claimed.success":"You successfully claimed {{0}}, you can now remove the verification key from the description of the application.",
+  "cmd.bot_claim.claimed.cancelled":"You cancelled the verification.",
+
+  "interaction.button.previous":"← Previous",
+  "interaction.button.next":"Next →",
+  "interaction.button.page_number":"Page N#{{0}}",
+  "interaction.button.cancel":"Cancel",
+
+  "card.application.name.title":"**Name**",
+  "card.application.name.text":"{{0}}",
+  "card.application.description.title":"**Description**",
+  "card.application.description.text":"{{0}}",
+  "card.application.description.none":"No description.",
+  "card.application.id.title":"**ID**",
+  "card.application.id.text":"{{0}}",
+  "card.application.last_bump.title":"**Last Bump**",
+  "card.application.last_bump.text":"<t:{{0}}:R>",
+  "card.application.view_online.title":"View Online",
+  "card.application.view_online.text":"[View on Discord.Watch]({{0}})",
+
+  "card.bot.username.title":"**Username**",
+  "card.bot.username.text":"__{{0}}__#{{1}}",
+  "card.bot.id.title":"**Bot ID**",
+  "card.bot.id.text":"{{0}}",
+  "card.bot.guilds.title":"**Guilds**",
+  "card.bot.guilds.text":"{{0}}",
+
+  "error.feature.not_implemented":"This feature is not yet implemented, join [our support server](https://discord.gg/dwatch) to get notified when this feature will be implemented",
+  "error.generic":"An error occured, sorry about this.",
+  "error.bot.not_in_db":"{{0}} This bot was deleted, disabled or the ID is invalid.",
+  "error.cmd.bot_bump.next_bump_in":"{{0}} You can only bump this bot <t:{{1}}:R>",
+  "error.cmd.bot_claim.already_claimed":"You can't claim a bot that is already claimed.",
+  "error.cmd.bot_claim.already_claimed_sameuser":"You already claimed this bot.",
+  "error.cmd.bot_claim.failed":"We didn't find the verifcation key in your bot's description. Verify that you copy pasted the verifcation key correctly and then retry.\r\nIf you have troubles, you can join [our support server](https://discord.gg/dwatch) for help.",
+  "error.cmd.bot_claim.timeout":"Sorry, the command got cancelled because you took more than {{0}} minutes"
+}
