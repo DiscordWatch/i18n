@@ -1,7 +1,7 @@
 {
   "langcode": "fr",
   "console.logs.langs_loaded": "Langues chargées !",
-  "sorting.order.last_bump": "Écrasé en dernier",
+  "sorting.order.last_bump": "Dernier bump",
   "sorting.order.trends": "Tendance",
   "sorting.order.bot_guild_count": "Compte de guilde",
   "sorting.order.id": "IDENTIFIANT",
