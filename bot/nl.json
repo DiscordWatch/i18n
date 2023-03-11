@@ -4,9 +4,9 @@
 
   "console.logs.langs_loaded": "Langs geladen!",
 
-  "sorting.order.last_bump":"Bumped Last", //add
+  "sorting.order.last_bump":"Bumped Last",
   "sorting.order.trends":"Populair",
-  "sorting.order.bot_guild_count":"Guild Count", //add
+  "sorting.order.bot_guild_count":"Guild Count",
   "sorting.order.id":"ID",
   "sorting.order.oldest":"Oudste Eerst",
 
@@ -30,7 +30,7 @@
   "card.application.description.none":"Geen Beschrijving.",
   "card.application.id.title":"**ID**",
   "card.application.id.text":"{{0}}",
-  "card.application.last_bump.title":"**Last Bump**", //add
+  "card.application.last_bump.title":"**Last Bump**",
   "card.application.last_bump.text":"<t:{{0}}:R>",
   "card.application.view_online.title":"Bekijk Online",
   "card.application.view_online.text":"[Bekijk op Discord.Watch]({{0}})",
@@ -39,7 +39,7 @@
   "card.bot.username.text":"__{{0}}__#{{1}}",
   "card.bot.id.title":"**Bot ID**",
   "card.bot.id.text":"{{0}}",
-  "card.bot.guilds.title":"**Guilds**", //add
+  "card.bot.guilds.title":"**Guilds**",
   "card.bot.guilds.text":"{{0}}",
 
   "staff.cmd.reload.config.success":"De configuratie is opnieuw geladen.",
@@ -51,7 +51,7 @@
   "error.feature.not_implemented":"Deze functie is nog niet geïmplementeerd, word lid van [onze ondersteuningsserver](https://discord.gg/dwatch) om op de hoogte te worden gehouden wanneer deze functie wordt geïmplementeerd",
   "error.generic":"Er is een fout opgetreden, excuses hiervoor.",
   "error.bot.not_in_db":"{{0}} Deze bot is verwijderd, uitgeschakeld of de ID is ongeldig.",
-  "error.cmd.bot_bump.next_bump_in":"{{0}} You can only bump this bot <t:{{1}}:R>", //add
+  "error.cmd.bot_bump.next_bump_in":"{{0}} You can only bump this bot <t:{{1}}:R>",
   "error.cmd.bot_claim.already_claimed":"U kunt geen bot claimen die al is geclaimd.",
   "error.cmd.bot_claim.already_claimed_sameuser":"Je hebt deze bot al geclaimd.",
   "error.cmd.bot_claim.failed":"We hebben de verificatiesleutel niet gevonden in de beschrijving van uw bot. Controleer of u de verificatiesleutel correct hebt gekopieerd en geplakt en probeer het opnieuw.\r\nAls u problemen ondervindt, kunt u lid worden van [onze ondersteuningsserver](https://discord.gg/dwatch) voor hulp.",
