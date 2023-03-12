@@ -33,7 +33,7 @@
   "card.bot.id.text": "{{0}}",
   "card.bot.guilds.title": "**Serveurs**",
   "card.bot.guilds.text": "{{0}}",
-  "error.feature.not_implemented": "Cette fonctionnalité n'est pas encore implémentée, rejoignez [notre serveur d'assistance](https://discord.gg/dwatch) pour être averti lorsque cette fonctionnalité sera implémentée",
+  "error.feature.not_implemented": "Cette fonctionnalité n'est pas encore implémentée, rejoignez [notre serveur d'assistance](https://discord.gg/watch) pour être averti lorsque cette fonctionnalité sera implémentée",
   "error.generic": "Une erreur s'est produite, désolé.",
   "error.bot.not_in_db": "{{0}} Ce bot a été supprimé, désactivé ou l'ID n'est pas valide.",
   "error.cmd.bot_bump.next_bump_in": "{{0}} Vous ne pouvez que bumper ce bot <t:{{1}}:R>",
