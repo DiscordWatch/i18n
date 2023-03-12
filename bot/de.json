@@ -38,7 +38,7 @@
   "staff.cmd.fetch.lang.progress": "Lang-Dateien werden abgerufen...",
   "staff.cmd.fetch.lang.success": "Die Lang-Dateien wurden erfolgreich abgerufen.\r\n\r\nLang-Dateien:\r\n{{0}}",
   "staff.cmd.reload.lang.success": "Die lang-Dateien wurden erfolgreich neu geladen.",
-  "error.feature.not_implemented": "Diese Funktion ist noch nicht implementiert, treten Sie [unserem Support-Server] (https://discord.gg/dwatch) bei, um benachrichtigt zu werden, wenn diese Funktion implementiert wird",
+  "error.feature.not_implemented": "Diese Funktion ist noch nicht implementiert, treten Sie [unserem Support-Server] (https://discord.gg/watch) bei, um benachrichtigt zu werden, wenn diese Funktion implementiert wird",
   "error.generic": "Es ist ein Fehler aufgetreten, bitte entschuldigen Sie dies.",
   "error.bot.not_in_db": "{{0}} Dieser Bot wurde gelöscht, deaktiviert oder die ID ist ungültig.",
   "error.cmd.bot_bump.next_bump_in": "{{0}} Sie können diesen Bot nur stoßen <t:{{1}}:R>",
