@@ -17,7 +17,7 @@ Supported languages [from discord](https://discord.com/developers/docs/reference
 |nl|Dutch|Nederlands|
 |no|Norwegian|Norsk|
 |pl|Polish|Polski|
-|pt-BR|Portuguese|Português|
+|pt|Portuguese|Português|
 |ro|Romanian|Română|
 |fi|Finnish|Suomi|
 |sv|Swedish|Svenska|
