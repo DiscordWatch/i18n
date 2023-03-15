@@ -6,7 +6,7 @@
     "sorting.order.last_bump":"Dernier Bump",
     "sorting.order.trends":"Tendance",
     "sorting.order.bot_guild_count":"Nombre de Serveurs",
-    "sorting.order.id":"IDENTIFIANT",
+    "sorting.order.id":"Identifiant",
     "sorting.order.oldest":"Du plus ancien au plus récent",
 
     "cmd.bot_explore.sorted_text":"Trié en utilisant **{{0}}**",
