@@ -8,8 +8,8 @@
   "sorting.order.oldest": "Du plus ancien au plus récent",
   "cmd.bot_explore.sorted_text": "Trié en utilisant **{{0}}**",
   "cmd.bot_bump.bump_success": "{{0}} Merci pour le bump ! ",
-  "cmd.bot_claim.stage1.text": "Vous êtes sur le point de réclamer {{0}}, vous devez avoir accès au [portail développeur de l'application](https://discord.com/developers/applications/{{1}}/information).\r\n",
-  "cmd.bot_claim.stage2.text": "Une fois dans le portail des développeurs, vous devez copier coller la clé de vérification '**{{0}}**' dans la description de l'application et enregistrez.\r\n",
+  "cmd.bot_claim.stage1.text": "Vous êtes sur le point de réclamer {{0}}, vous devez avoir accès au [portail développeur de l'application](https://discord.com/developers/applications/{{1}}/information).\r\n**Une fois là, cliquez sur __Suivant →__**",
+  "cmd.bot_claim.stage2.text": "Une fois dans le portail des développeurs, vous devez copier coller la clé de vérification '**{{0}}**' dans la description de l'application et enregistrez.\r\n**Une fois terminé, cliquez sur __Suivant →__**",
   "cmd.bot_claim.claimed.success": "Vous avez réclamé avec succès {{0}}, vous pouvez maintenant supprimer la clé de vérification de la description de l'application.",
   "cmd.bot_claim.claimed.cancelled": "Vous avez annulé la vérification.",
   "interaction.button.previous": "← Précédent",
@@ -38,7 +38,7 @@
   "error.bot.not_in_db": "{{0}} Ce bot a été supprimé, désactivé ou l'ID n'est pas valide.",
   "error.cmd.bot_bump.next_bump_in": "{{0}} Vous ne pouvez que bumper ce bot <t:{{1}}:R>",
   "error.cmd.bot_claim.already_claimed": "Vous ne pouvez pas réclamer un bot déjà réclamé.",
-  "error.cmd.bot_claim.already_claimed_sameuser": "Vous avez déjà revendiqué ce bot.",
+  "error.cmd.bot_claim.already_claimed_sameuser": "Vous avez déjà réclamé ce bot.",
   "error.cmd.bot_claim.failed": "Nous n'avons pas trouvé la clé de vérification dans la description de votre bot.",
   "error.cmd.bot_claim.timeout": "Désolé, la commande a été annulée car vous avez pris plus de {{0}} minutes."
 }
