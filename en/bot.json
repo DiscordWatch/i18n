@@ -17,6 +17,8 @@
   "cmd.bot_claim.stage2.text":"Once in the developer portal, you need to copy paste the verification key '**{{0}}**' to the description of the application and save.\r\n**Once done click on __Next →__**",
   "cmd.bot_claim.claimed.success":"You successfully claimed {{0}}, you can now remove the verification key from the description of the application.",
   "cmd.bot_claim.claimed.cancelled":"You cancelled the verification.",
+  "cmd.bot_settings_visibility.bump_success.true":"{{0}} The visibility of the bot was set to : **True**",
+  "cmd.bot_settings_visibility.bump_success.false":"{{0}} The visibility of the bot was set to : **False**",
 
   "interaction.button.previous":"← Previous",
   "interaction.button.next":"Next →",
@@ -56,5 +58,6 @@
   "error.cmd.bot_claim.already_claimed_sameuser":"You already claimed this bot.",
   "error.cmd.bot_claim.failed":"We didn't find the verifcation key in your bot's description. Verify that you copy pasted the verifcation key correctly and then retry.\r\nIf you have troubles, you can join [our support server](https://discord.gg/watch) for help.",
   "error.cmd.bot_claim.timeout":"Sorry, the command got cancelled because you took more than {{0}} minutes",
+  "error.cmd.bot_settings.no_permission":"{{0}} Sorry you don't have the permission to do that command. If you are the owner, consider claiming the bot.",
   "error.staff.not_allowed":"Only allowed staff members can do this action."
 }
