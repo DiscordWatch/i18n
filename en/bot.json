@@ -44,6 +44,11 @@
   "card.bot.guilds.title":"**Guilds**",
   "card.bot.guilds.text":"{{0}}",
 
+  "numbers.short.thousands":"{{0}}k",
+  "numbers.short.millions":"{{0}}M",
+
+  "autocomplete.bots.bot":"{{0}}#{{1}} ({{2}} guilds)",
+
   "language.id":"Indonesian",
   "language.da":"Danish",
   "language.de":"German",
