@@ -25,7 +25,7 @@
   "card.application.description.none": "Нет описания.",
   "card.application.id.title": "**ID**",
   "card.application.id.text": "{{0}}",
-  "card.application.last_bump.title": "**Последний Бамп**",
+  "card.application.last_bump.title": "**Последний ап**",
   "card.application.last_bump.text": "<t:{{0}}:R>",
   "card.application.view_online.title": "Посмотреть онлайн",
   "card.application.view_online.text": "[Посмотреть на Discord.Watch]({{0}})",
