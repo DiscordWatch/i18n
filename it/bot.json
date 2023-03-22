@@ -12,6 +12,8 @@
   "cmd.bot_claim.stage2.text": "Una volta nel portale sviluppatore, è necessario copiare la chiave di verifica '**{{0}}**' nella descrizione dell'applicazione e salvare.\n**Una volta fatto premi su __Successivo →__**",
   "cmd.bot_claim.claimed.success": "Hai ottenuto con successo {{0}}, ora puoi rimuovere la chiave di verifica dalla descrizione dell'applicazione.",
   "cmd.bot_claim.claimed.cancelled": "Hai annullato la verifica.",
+  "cmd.bot_settings_visibility.bump_success.true": "{{0}} La visibilità del bot è stata impostata a : **True**",
+  "cmd.bot_settings_visibility.bump_success.false": "{{0}} La visibilità del bot è stata impostata a : **False**",
   "interaction.button.previous": "← Precedente",
   "interaction.button.next": "Successivo →",
   "interaction.button.page_number": "Pagina N#{{0}}",
@@ -46,5 +48,6 @@
   "error.cmd.bot_claim.already_claimed_sameuser": "Hai già preso questo bot.",
   "error.cmd.bot_claim.failed": "Non abbiamo trovato la chiave di verifica nella descrizione del bot. Verifica di aver fatto il copia-incolla della chiave di verifica correttamente, poi riprova.\nSe stai riscontrando un problema, puoi entrare nel [server di supporto](https://discord.gg/watch) per essere aiutato.",
   "error.cmd.bot_claim.timeout": "Siamo spiacenti, il comando è stato annullato perché ci sono voluti più di {{0}} minuti",
+  "error.cmd.bot_settings.no_permission": "{{0}} Ci dispiace, ma non hai il permesso di eseguire questo comando. Se sei l'owner del bot, considera di reclamarlo.",
   "error.staff.not_allowed": "Solo i membri dello staff approvati possono fare questa azione."
 }
