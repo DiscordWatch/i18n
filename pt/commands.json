@@ -17,7 +17,7 @@
     "slash.bot.settings-visibility.description": "Defina a visibilidade de um bot",
     "slash.bot.settings-visibility.value": "valor",
     "slash.bot.settings-visibility.value.description": "Habilite/Desabilite a listagem do bot no Discord Watch (verdadeiro por padrão)",
-    "slash.bot.settings-supported-locales": "configurações-linguagens-suportadas",
+    "slash.bot.settings-supported-locales": "configurar-linguagens-suportadas",
     "slash.bot.settings-supported-locales.description": "Defina linguagens suportadas de um bot",
     "slash.bot.settings-supported-locales.locale": "linguagem",
     "slash.bot.settings-supported-locales.locale.description": "Nome (ou código) de uma linguagem",
