@@ -13,7 +13,7 @@
     "slash.bot.profile.description": "Veja o perfil de um bot.",
     "slash.bot.claim": "reivindicar",
     "slash.bot.claim.description": "Reivindicar bot",
-    "slash.bot.settings-visibility": "configurações-visibilidade",
+    "slash.bot.settings-visibility": "configurar-visibilidade",
     "slash.bot.settings-visibility.description": "Defina a visibilidade de um bot",
     "slash.bot.settings-visibility.value": "valor",
     "slash.bot.settings-visibility.value.description": "Habilite/Desabilite a listagem do bot no Discord Watch (verdadeiro por padrão)",
