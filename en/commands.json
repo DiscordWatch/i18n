@@ -10,23 +10,28 @@
 
     "slash.bot.bump":"bump",
     "slash.bot.bump.description":"Bump a bot",
-    "slash.bot.bump.bot":"bot",
-    "slash.bot.bump.bot.description":"The ID of the bot (or search)",
 
-    "slash.bot.profile":"bump",
+    "slash.bot.profile":"profile",
     "slash.bot.profile.description":"See the profile of a bot.",
-    "slash.bot.profile.bot":"bot",
-    "slash.bot.profile.bot.description":"The ID of the bot (or search)",
 
     "slash.bot.claim":"claim",
     "slash.bot.claim.description":"Claim a bot",
-    "slash.bot.claim.bot":"bot",
-    "slash.bot.claim.bot.description":"The ID of the bot (or search)",
 
     "slash.bot.settings-visibility":"settings-visibility",
     "slash.bot.settings-visibility.description":"Set the visibility of a bot",
-    "slash.bot.settings-visibility.bot":"bot",
-    "slash.bot.settings-visibility.bot.description":"The ID of the bot (or search)",
     "slash.bot.settings-visibility.value":"value",
-    "slash.bot.settings-visibility.value.description":"Enable/Disable listing of the bot on Discord Watch (true by default)"
+    "slash.bot.settings-visibility.value.description":"Enable/Disable listing of the bot on Discord Watch (true by default)",
+    
+    "slash.bot.settings-supported-locales":"settings-supported-locales",
+    "slash.bot.settings-supported-locales.description":"Set supported locales of a bot",
+    "slash.bot.settings-supported-locales.locale":"locale",
+    "slash.bot.settings-supported-locales.locale.description":"Name (or code) of the locale",
+    "slash.bot.settings-supported-locales.value":"value",
+    "slash.bot.settings-supported-locales.value.description":"Enable/Disable a locale",
+
+    "slash.bot.settings-locale-description":"settings-locale-description",
+    "slash.bot.settings-locale-description.description":"Set locale description of a bot",
+
+    "slash.settings.bot":"bot",
+    "slash.settings.bot.description":"The ID of the bot (or search)"
 }

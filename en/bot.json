@@ -24,10 +24,16 @@
   "cmd.bot_settings_supported_locales.true":"{{0}} The locale support for **{{1}}** was set to : **True**",
   "cmd.bot_settings_supported_locales.false":"{{0}} The locale support for **{{1}}** was set to : **False**",
 
+  "cmd.bot_settings_locale_description.not_supported":"{{0}} Sorry but the bot you want to edit doesn't support **{{1}}**.",
+  "cmd.bot_settings_locale_description.stage1.text":"{{0}} You are about to edit the **{{1}}** description. Press the **Edit** button to edit it.",
+  "cmd.bot_settings_locale_description.stage2.label":"Your bot's description (in {{0}})",
+
   "interaction.button.previous":"← Previous",
   "interaction.button.next":"Next →",
   "interaction.button.page_number":"Page N#{{0}}",
   "interaction.button.cancel":"Cancel",
+  "interaction.button.edit":"Edit",
+  "interaction.button.preview":"Preview",
 
   "card.application.name.title":"**Name**",
   "card.application.name.text":"{{0}}",
