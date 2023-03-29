@@ -27,7 +27,7 @@
   "cmd.bot_settings_locale_description.not_supported":"{{0}} Sorry but the bot you want to edit doesn't support **{{1}}**.",
   "cmd.bot_settings_locale_description.stage1.text":"{{0}} You are about to edit the **{{1}}** description. Press the **Edit** button to edit it.",
   "cmd.bot_settings_locale_description.stage2.title":"Change your bot's description (in {{0}})",
-  "cmd.bot_settings_locale_description.stage2.label":"Your bot's description (in {{0}})",
+  "cmd.bot_settings_locale_description.stage2.label":"Your bot's description",
 
   "interaction.button.previous":"← Previous",
   "interaction.button.next":"Next →",
