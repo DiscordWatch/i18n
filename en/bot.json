@@ -12,6 +12,7 @@
 
   "cmd.bot_explore.sorted_text":"Sorted using **{{0}}**",
   "cmd.bot_bump.bump_success":"{{0}} Thanks for the bump ! :thumbsup_tone1:",
+  "cmd.bot_bump.remind":"Remind me",
 
   "cmd.bot_claim.stage1.text":"You are about to claim {{0}}, you need access to the [developer portal of the application](https://discord.com/developers/applications/{{1}}/information).\r\n**Once there click on __Next →__**",
   "cmd.bot_claim.stage2.text":"Once in the developer portal, you need to copy paste the verification key '**{{0}}**' to the description of the application and save.\r\n**Once done click on __Next →__**",
@@ -54,6 +55,8 @@
   "card.bot.id.text":"{{0}}",
   "card.bot.guilds.title":"**Guilds**",
   "card.bot.guilds.text":"{{0}}",
+
+  "reminder.text.application":"I remind you of bumping __{{0}}__#{{1}}, available on our service at {{2}}",
 
   "numbers.short.thousands":"{{0}}k",
   "numbers.short.millions":"{{0}}M",
