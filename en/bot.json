@@ -56,7 +56,7 @@
   "card.bot.guilds.title":"**Guilds**",
   "card.bot.guilds.text":"{{0}}",
 
-  "reminder.text.application":"I remind you of bumping __{{0}}__#{{1}}, available on our service at {{2}}",
+  "reminder.text.application":"I remind you of bumping __{{0}}__#{{1}}\r\nDo </bot bump:{{3}}> to bump it",
 
   "numbers.short.thousands":"{{0}}k",
   "numbers.short.millions":"{{0}}M",
