@@ -22,7 +22,7 @@
     "slash.bot.settings-supported-locales.locale": "мова",
     "slash.bot.settings-supported-locales.locale.description": "Ім'я (або код) мови",
     "slash.bot.settings-supported-locales.value": "значення",
-    "slash.bot.settings-supported-locales.value.description": "Увімкнути/Вимкнути локалізацію",
+    "slash.bot.settings-supported-locales.value.description": "Увімкнути/Вимкнути мову",
     "slash.settings.bot": "бот",
     "slash.settings.bot.description": "ID бота (або пошук)"
 }
