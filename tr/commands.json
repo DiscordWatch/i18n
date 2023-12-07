@@ -1,9 +1,9 @@
 {
     "slash.bot": "bot",
-    "slash.bot.description": "Commands for bots",
-    "slash.bot.explore": "explore",
-    "slash.bot.explore.description": "Explore for bots",
-    "slash.bot.explore.query": "query",
+    "slash.bot.description": "Bot komutları",
+    "slash.bot.explore": "keşfet",
+    "slash.bot.explore.description": "Botları keşfet",
+    "slash.bot.explore.query": "sorgula",
     "slash.bot.explore.query.description": "Text that will be used to find matches",
     "slash.bot.explore.order": "order",
     "slash.bot.explore.order.description": "Change the order of the search",
